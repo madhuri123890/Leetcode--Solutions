@@ -9,9 +9,9 @@ This repository contains my solutions to LeetCode problems solved in Python. I r
 📂 Repository Structure
 
 - 📦 Arrays
-- 🔤 Strings
-- 🪟 Sliding Window
 - 🔍 Binary Search
+- 🪟 Sliding Window
+- 🔤 Strings
 - 🔗 Linked List
 - 🌳 Trees
 - 🧠 Dynamic Programming
